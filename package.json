@@ -1,14 +1,14 @@
 {
-  "name": "weather-dashboard",
+  "name": "WEATHER-APP",
   "version": "1.0.0",
   "description": "A comprehensive weather dashboard with current and historical weather data visualization",
   "keywords": ["weather", "react", "chart.js", "openweathermap", "dashboard"],
   "author": "Your Name",
   "license": "MIT",
-  "homepage": "https://yourusername.github.io/weather-dashboard",
+  "homepage": "https://Duddu-harsha.github.io/WEATHER-APP",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/weather-dashboard.git"
+    "url": "https://github.com/Duddu-harsha/WEATHER-APP.git"
   },
   "private": true,
   "dependencies": {
